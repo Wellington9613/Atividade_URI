@@ -1,0 +1,15 @@
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\bin\Debug\net6.0\URI 1008 (SALARIO).exe
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\bin\Debug\net6.0\URI 1008 (SALARIO).deps.json
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\bin\Debug\net6.0\URI 1008 (SALARIO).runtimeconfig.json
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\bin\Debug\net6.0\URI 1008 (SALARIO).dll
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\bin\Debug\net6.0\URI 1008 (SALARIO).pdb
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).csproj.AssemblyReference.cache
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).AssemblyInfoInputs.cache
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).AssemblyInfo.cs
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).csproj.CoreCompileInputs.cache
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).dll
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\refint\URI 1008 (SALARIO).dll
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).pdb
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\URI 1008 (SALARIO).genruntimeconfig.cache
+C:\Users\luizi\Desktop\Uri\URI 1008 (SALARIO)\URI 1008 (SALARIO)\obj\Debug\net6.0\ref\URI 1008 (SALARIO).dll
